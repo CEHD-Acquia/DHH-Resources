@@ -1,0 +1,6 @@
+# FOLLOWING LIST DISALLOWS ALL ROBOTS (User-agents) FROM
+# SEARCHING FILES IN THE PATHS BELOW.
+
+User-agent: *
+Disallow: /assets/
+Disallow: /attributes/
